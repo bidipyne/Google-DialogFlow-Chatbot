@@ -1,0 +1,2 @@
+2020-06-25/17:12:33		User Says: 1234567890
+2020-06-25/17:12:50		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
